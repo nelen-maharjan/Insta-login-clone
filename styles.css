@@ -80,6 +80,13 @@
     font-size: 14px;
     font-weight: 500;
   }
+
+  .social__icon a{
+    text-decoration: none;
+  }
+  a{
+    text-decoration: none;
+  }
   .forgetPassword {
     margin: auto;
     color: rgb(101, 178, 250);
